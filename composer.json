@@ -19,7 +19,7 @@
     "require": {
         "php": ">=7.2",
         "laravel/framework": ">=6.0",
-        "pharaonic/php-hijri": "*"
+        "pharaonic/php-hijri": "dev-pptmpiv-patch-1"
     },
     "config": {
         "sort-packages": true
